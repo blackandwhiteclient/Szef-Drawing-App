@@ -30,7 +30,6 @@ import javax.swing.JComponent;
  
 public class DrawArea extends JComponent {
  
-
   private Image image;
  
   private Graphics2D g2;
